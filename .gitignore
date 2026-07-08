@@ -1,0 +1,24 @@
+# Local assistant / editor context (not part of the project deliverable)
+CLAUDE.md
+.claude/
+
+# ModelSim / Questa simulation artifacts
+work/
+transcript
+*.wlf
+*.vcd
+
+# Quartus Prime build output
+db/
+incremental_db/
+output_files/
+*.qws
+*.rpt
+*.sof
+*.pof
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
